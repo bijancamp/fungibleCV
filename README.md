@@ -22,4 +22,5 @@ share a common R2 value (Waller, 2008).
 Waller, N.G. (2008). Fungible weights in multiple regression. *Psychometrica*, 
 *73*, 691-703.
 Waller, N.G. (2013, under review). Fungible Correlation Matrices: A New Tool
-for Evaluating Penalized Regression Models.
+for Evaluating  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penalized Regression Models.
