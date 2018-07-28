@@ -1,6 +1,6 @@
 fungibleCV
 ==========
-R simulation that assesses the cross-validation performance of fungible weights
+Simulation that assesses the cross-validation performance of fungible weights
 
 #### Description
 See comments in fungibleCV.R for details.
