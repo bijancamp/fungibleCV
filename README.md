@@ -16,7 +16,7 @@ for details.
 In addition to the libraries sourced in fungibleCV.R, this simulation requires 
 the `fungibleR` function for producing correlation matrices (Waller, 2013, 
 under review) and the `Fungible` function for producing alternate weights that 
-share a common R2 value (Waller, 2008).
+share a common 𝑅² value (Waller, 2008).
 
 #### References
 Waller, N.G. (2008). Fungible weights in multiple regression. *Psychometrica*, 
